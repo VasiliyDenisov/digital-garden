@@ -5,15 +5,13 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Main page! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-| qweqwe | qweqweqw |
-| --- | --- |
-| qweqwe | qweqweqeqw |
+![Drawing 2024-02-25 13.51.37.excalidraw](Drawing%202024-02-25%2013.51.37.excalidraw.md)
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
